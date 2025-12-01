@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "修羅場 (シングル)",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2025-12-01T14:22:58.791367Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "修羅場 - シングル",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_修羅場_-_シングル_Tokyo_Incidents.lrc"
+    }
+  ]
+}
